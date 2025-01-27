@@ -1,4 +1,3 @@
-#![feature(portable_simd)]
 
 mod bitmask;
 mod bucket;
